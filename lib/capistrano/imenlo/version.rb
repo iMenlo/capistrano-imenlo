@@ -1,5 +1,5 @@
 module Capistrano
-  module iMenlo
+  module IMENLO
     VERSION = "0.2.2"
   end
 end

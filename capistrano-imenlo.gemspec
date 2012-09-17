@@ -5,7 +5,7 @@ require 'capistrano/imenlo/version'
 
 Gem::Specification.new do |s|
   s.name         = "capistrano-imenlo"
-  s.version      = Capistrano::iMenlo::VERSION
+  s.version      = Capistrano::IMENLO::VERSION
   s.authors      = ["Bruno Michel", "Sylvain Gautier"]
   s.email        = "bruno.michel@af83.com"
   s.homepage     = "https://github.com/imenlo/capistrano-imenlo"
